@@ -10,10 +10,7 @@ Repository containing portfolio of data science projects completed by me for sel
 
 (iv) [User Ad Click Prediction](https://github.com/Editit/Data-Science-Portfolio/tree/master/User%20Ad%20Click%20Prediction): A WNS Competetion dataset, and the toughest for me till now to get insights from. Containing 3 datasets for feature engineering purposes including view_log of users and the item table.
 
+(v)[Uberdrives analysis](https://github.com/Editit/Data-Science-Portfolio/blob/master/Uber.ipynb): Exploratory data analysis of demand and supply issues that uber have been facing with a short indulging kaggle dataset.
+
+
 *Tools: Scikit-learn, Python, R, Seaborn, pandas, Matplotlib*
-
-
-
-## Data Analysis and Visualisation
-(i)[Uberdrives analysis](https://github.com/Editit/Data-Science-Portfolio/blob/master/Uber.ipynb): Exploratory data analysis of demand and supply issues that uber have been facing with a short indulging kaggle dataset.
-
