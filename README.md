@@ -4,7 +4,7 @@ Repository containing portfolio of data science projects completed by me for sel
 ## Data Analysis and Predictive Modeling 
 (i) [Bike Rental Prediction](https://github.com/Editit/Data-Science-Portfolio/tree/master/Bike%20rental%20Prediction): A model to predict the number of bikes rented on a given day based on several environmental and seasonal settings. Generated and analysed  the most useful features and criterias responsible for people renting bikes.
 
-(ii)[Cristiano Ronaldo Scoring a Goal](https://github.com/Editit/Data-Science-Portfolio/tree/master/Cristiano%20Ronaldo%20Goal%20Scoring%20Probability): There are many factors that stops Christiano Ronaldo from Scoring a Goal, getting all those things on point using that messy data and then using Logistic Regression to predict the probability of Ronaldo scoring a goal given the venue, his positiion and much more important factors.
+(ii)[Cristiano Ronaldo Scoring a Goal](https://github.com/Editit/Data-Science-Portfolio/tree/master/Cristiano%20Ronaldo%20Goal%20Scoring%20Probability): There are many factors that stops Cristiano Ronaldo from Scoring a Goal, getting all those things on point using that messy data and then using Logistic Regression to predict the probability of Ronaldo scoring a goal given the venue, his positiion and much more important factors.
 
 (iii) [Indian Premier League](https://github.com/Editit/Data-Science-Portfolio/tree/master/Indian%20Premier%20League): The most fun thing i have done and most probably that every cricket fan will agree, analysing the whole history of IPL and predicting who is going to win the next season. 
 
